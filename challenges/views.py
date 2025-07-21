@@ -14,7 +14,7 @@ monthly_challenges = {
   'september': 'Master the basics of Spanish!',
   'october': 'Build and deploy a fullstack app!',
   'november': 'Practice meditation daily!',
-  'december': 'Reflect and write your yearly review!'
+  'december': None
 }
 
 def index(request):
